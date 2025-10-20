@@ -10,7 +10,7 @@ This project performs real-time hand detection and finger counting using **OpenC
 - FPS (Frames Per Second) display for performance monitoring  
 - Detects thumb and 4 fingers for the right hand (can be adapted for the left hand)
 
-![Demo Image]("C:\Users\ahsen\Pictures\Screenshots\ekrangoruntusu.png")
+![Demo Image]()
 
 ## Setup
 ```bash
